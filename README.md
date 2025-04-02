@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Thien Nguyen Quang Bui
 - 👀 I’m interested in Space, Data Analysis, AOCS, satellite operations, and Mission control <br/>
-- 🌱 I’m currently learning Python and Data Analysis<br/>
+- 🌱 I’m currently learning software development <br/>
 - 💞️ I’m looking to collaborate on networking<br/>
 - 📫 How to reach me https://www.linkedin.com/in/thien-bui-76116018b/
 
